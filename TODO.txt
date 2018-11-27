@@ -3,7 +3,17 @@ SQL-Schnittstelle
 
 Gemeinsames .css File
 	Die .css Files zu einem zusammenfassen.
+	Norbert: Muss nicht sein, in der Regel (Lisa) werden mehrere CSS Dateien genutzt.
+		 Ich würde sie aber neu ordnen.
+
+Struktur der HTML und CSS Dateien ordnen
+	Norbert: Mach ich
 	
+Die dynamische Erfassung von Cocktailattributen (Geschmack, Glas, etc) möglich machen. Nicht: Name, Zutaten, Zubereitung!!
+	Norbert: Mach ich
+
+Testcocktails erfassen
+
 Rezept erstellen
 	erst einmal nur Cocktail Name und Zutat.
 	z.B: 
